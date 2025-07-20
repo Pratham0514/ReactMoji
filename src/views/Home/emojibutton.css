@@ -1,0 +1,18 @@
+.emoji-item {
+  width: fit-content;
+  height: fit-content;
+  font-size: 1.5rem;
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border: 1px solid #91acd0;
+  background: transparent;
+
+}
+
+.emoji-item:hover {
+  background: #336de8;
+  border: 1px solid #b3c5ed;
+}   

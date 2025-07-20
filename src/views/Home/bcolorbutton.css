@@ -1,0 +1,14 @@
+.bcolor-button {
+ width: fit-content;
+  height: fit-content;
+  font-size: 1.5rem;
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border: 1px solid #91acd0;
+}
+.bcolor-button:hover {
+ border: 1px solid #b3c5ed;
+}
