@@ -3,6 +3,7 @@ import './emojibutton.css';
 
 function EmojiButton({ emoji, setEmoji }) {
   return (
+    
     <div className='emoji-item' onClick={() => setEmoji(emoji)}>
       {emoji}
     </div>
