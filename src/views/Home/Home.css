@@ -32,6 +32,7 @@
   background: #f8fafcdd;
   border-radius: 1.2em;
   box-shadow: 0 8px 32px #64748b33;
+  background: #c2dceb;
   padding: 2.5rem 3rem;
   margin-top: 5vh;
   animation: fadeIn 1.2s cubic-bezier(.4,0,.2,1);
