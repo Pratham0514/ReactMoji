@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './Home.css';
-import EmojiButton from './EmojiButton';
+import EmojiButton from "./emojibutton";
 import BColorButton from './BColorButton';
 
 
